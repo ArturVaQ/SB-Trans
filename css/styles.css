@@ -137,6 +137,11 @@ margin:20px;
         font-weight: bold;
         
     }
+    .feature-title{
+    font-size:3.0rem;
+    color:white;
+    font-weight: 600;
+}
     .title-image{
         position:static;
         transform:rotate(0);

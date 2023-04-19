@@ -67,7 +67,7 @@ p{
 .title-image{
     width:55%;
     position:absolute;
-    height:400px;
+    height:410px;
     width:410px;
     right:15%;
     margin-bottom:100px;
@@ -132,7 +132,7 @@ margin:20px;
     .title-image{
         position:static;
         transform:rotate(0);
-        height:350px;
-        width:350px;
+        height:380px;
+        width:380px;
     }
 }

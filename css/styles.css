@@ -138,11 +138,10 @@ margin:20px;
         
     }
     .feature-title{
-    font-size:3.0rem;
-    color:white;
-    font-weight: 600;
-}
+        font-size:3rem;
+    }
     .title-image{
+        margin-top:30px;
         position:static;
         transform:rotate(0);
         height:500px;
@@ -152,8 +151,8 @@ margin:20px;
         color:white;
         font-size:2.5rem;
     }
-    .kontakt-text{
-    margin:15px 0;
-    font-size:2.5rem;
-}
+    .kontakt-text{      
+         margin:15px 0;
+         font-size:2.5rem;
+    }
 }

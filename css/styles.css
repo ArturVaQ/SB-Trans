@@ -77,6 +77,20 @@ p{
     line-height: 1.5;
     font-weight:600;
 }
+#gallery{
+background-color:#404040;
+
+}
+.foto{
+    height:400px;
+    width:400px;
+    padding:15px;
+    transition: 1s;
+}
+.foto:hover{
+    filter:grayscale(100%);
+    transform: scale(1.1);
+}
 /* Features */
 #features{
     position:relative;
